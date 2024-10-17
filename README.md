@@ -1,13 +1,13 @@
+<!-- MarkDown 방식 -->
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=0,2,2,5,4&height=200&section=header&text=TestBanner&fontSize=80&animation=fadeIn)
 
 <!-- 
-배너예시2
+배너예시(Html 방식)
 <img src="https://capsule-render.vercel.app/api?type=egg&color=auto&height=100&section=header&text=capsule%20render&fontSize=90&animation=blink" />
 
 배너만들기 : https://github.com/kyechan99/capsule-render
 -->
 ## Hi there 👋
-
 
 **CronsClyde/CronsClyde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
