@@ -69,5 +69,9 @@ Theme = dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, h
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CronsClyde&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CronsClyde&layout=compact&theme=tokyonight)
 -->
-
 </div>
+
+<!-- 
+3d 모델링으로 보는법 
+https://h-owo-ld.tistory.com/264
+-->
