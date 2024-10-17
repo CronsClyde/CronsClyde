@@ -25,14 +25,16 @@ Here are some ideas to get you started:
 배지 공식사이트 : https://shields.io/
 아이콘 공식사이트 : https://simpleicons.org/
 -->
+#
 <h3 align="center">🛠 Links 🛠</h3>
 <div align="center">
   <!-- https://simpleicons.org/ 여기에서 하이퍼링크 아이콘 가져옴 -->
-  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
+  <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
   <a href="https://www.notion.so/Portfolio_KimYangWoo-11c1665604f9807ab872f6fd1206d5a7/"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 </div>
 
 <!-- &nbsp : 줄바꿈을 일으키지 않으면서 공백을 넣고 싶을 때 사용합니다 -->
+#
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />&nbsp
@@ -52,8 +54,20 @@ Here are some ideas to get you started:
 https://github.com/anuraghazra/github-readme-stats 
 Theme = dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 -->
-<!-- GitHub Stats Card -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CronsClyde&show_icons=true&theme=tokyonight)
-<!-- Top Languages Card -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CronsClyde&layout=compact&theme=tokyonight)
+##
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <!-- GitHub Stats Card -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=CronsClyde&show_icons=true&theme=tokyonight" />
+  </a>&nbsp
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <!-- Top Languages Card -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CronsClyde&layout=compact&theme=tokyonight"/>
+  </a>
 
+<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CronsClyde&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CronsClyde&layout=compact&theme=tokyonight)
+-->
+
+</div>
