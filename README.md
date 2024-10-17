@@ -28,16 +28,17 @@ Here are some ideas to get you started:
 <h3 align="center">🛠 Links 🛠</h3>
 <div align="center">
   <!-- https://simpleicons.org/ 여기에서 하이퍼링크 아이콘 가져옴 -->
-  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
+  <a href="https://www.notion.so/Portfolio_KimYangWoo-11c1665604f9807ab872f6fd1206d5a7/"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 </div>
 
-
+<!-- &nbsp : 줄바꿈을 일으키지 않으면서 공백을 넣고 싶을 때 사용합니다 -->
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   
 <!--  https://github.com/Envoy-VC/awesome-badges 여기에서 토글 가져옴
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
@@ -53,11 +54,6 @@ Theme = dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, h
 -->
 <!-- GitHub Stats Card -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CronsClyde&show_icons=true&theme=tokyonight)
-
 <!-- Top Languages Card -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CronsClyde&layout=compact&theme=tokyonight)
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CronsClyde)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CronsClyde&layout=compact)
--->
 
