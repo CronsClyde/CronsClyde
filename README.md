@@ -13,8 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={CronsClyde}&show_icons=true&theme=radical)
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![js](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={CronsClyde})
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CronsClyde)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CronsClyde&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CronsClyde)
 
