@@ -49,13 +49,13 @@ Here are some ideas to get you started:
 
 <!-- GitHub Readme Stats
 https://github.com/anuraghazra/github-readme-stats 
+Theme = dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 -->
 <!-- GitHub Stats Card -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CronsClyde&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CronsClyde&show_icons=true&theme=tokyonight)
 
 <!-- Top Languages Card -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CronsClyde)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CronsClyde&layout=compact&theme=tokyonight)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CronsClyde)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CronsClyde&layout=compact)
