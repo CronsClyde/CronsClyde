@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&text=TestBanner%20render&fontSize=80&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=0,2,2,5,4&height=200&section=header&text=TestBanner&fontSize=80&animation=fadeIn)
 
 <!-- 
 배너예시2
