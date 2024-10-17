@@ -1,3 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=100&section=header&text=TestBanner%20render&fontSize=80)
+
+<img src="https://capsule-render.vercel.app/api?type=egg&color=auto&height=100&section=header&text=capsule%20render&fontSize=90" />
+
+배너만들기 : https://github.com/kyechan99/capsule-render
 ## Hi there 👋
 
 
@@ -13,6 +18,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+배지 공식사이트 : https://shields.io/
+아이콘 공식사이트 : https://simpleicons.org/
+  
 <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 https://simpleicons.org/ 여기에서 하이퍼링크 아이콘 가져옴
