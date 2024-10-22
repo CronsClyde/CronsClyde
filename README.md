@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <div align="center">
   <!-- https://simpleicons.org/ 여기에서 하이퍼링크 아이콘 가져옴 -->
   <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
-  <a href="https://www.notion.so/Portfolio_KimYangWoo-11c1665604f9807ab872f6fd1206d5a7/"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+  <a href="https://catkin-maxilla-b40.notion.site/Portfolio_KimYangWoo-11c1665604f9807ab872f6fd1206d5a7"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 </div>
 
 <!-- &nbsp : 줄바꿈을 일으키지 않으면서 공백을 넣고 싶을 때 사용합니다 -->
